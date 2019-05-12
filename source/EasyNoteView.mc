@@ -1,25 +1,14 @@
 using Toybox.Graphics;
 using Toybox.WatchUi;
-using Toybox.Application;
 
 class EasyNoteView extends WatchUi.View {
 
-    var writer;
-    var noteContent;
-
     function initialize() {
         View.initialize();
-        writer = new WrapTextMine();   
-        getContent();
+        textRender = new WrapTextMine();   
+        easyNoteModel.getContent();
     }
-
-    function getContent(){
-      noteContent = Application.getApp().getProperty("NoteContent");
-	  if(noteContent.equals(""))
-	  {
-	    noteContent = "内容为空!";
-	  }
-    }
+    
     // Load your resources here
     function onLayout(dc) {
       
@@ -39,9 +28,8 @@ class EasyNoteView extends WatchUi.View {
         View.onUpdate(dc);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
 
-        getContent();
-        var posY = 0;
-        posY = writer.writeLines(dc, noteContent, Graphics.FONT_TINY, 0);      
+        easyNoteModel.getContent();
+        textRender.writeLines(dc, easyNoteModel.noteContent, Graphics.FONT_TINY, 0);      
     }
 
     // Called when this View is removed from the screen. Save the

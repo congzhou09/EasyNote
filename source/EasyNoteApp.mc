@@ -1,8 +1,11 @@
 using Toybox.Application;
 using Toybox.WatchUi;
 
-class EasyNoteApp extends Application.AppBase {
+var easyNoteModel = new EasyNoteModel(); //笔记内容管理
+var textRender; //笔记内容渲染
 
+class EasyNoteApp extends Application.AppBase {
+    
     function initialize() {
         AppBase.initialize();
     }
