@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="3" lineNum="10" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="3" lineNum="11" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="3" lineNum="12" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="3" lineNum="13" pc="268435508" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="4" lineNum="16" pc="268435521" symbol="getContent"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="4" lineNum="17" pc="268435525" symbol="getContent"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="4" lineNum="18" pc="268435562" symbol="getContent"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="4" lineNum="20" pc="268435587" symbol="getContent"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="4" lineNum="24" pc="268435603" symbol="getContent"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="5" lineNum="28" pc="268435630" symbol="onLayout"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="6" lineNum="36" pc="268435635" symbol="onShow"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="7" lineNum="41" pc="268435640" symbol="onUpdate"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="7" lineNum="43" pc="268435644" symbol="onUpdate"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="7" lineNum="44" pc="268435664" symbol="onUpdate"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="7" lineNum="46" pc="268435700" symbol="onUpdate"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="7" lineNum="47" pc="268435712" symbol="onUpdate"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="7" lineNum="48" pc="268435719" symbol="onUpdate"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteView.mc" id="8" lineNum="54" pc="268435766" symbol="onHide"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteDelegate.mc" id="10" lineNum="5" pc="268435771" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteDelegate.mc" id="10" lineNum="6" pc="268435775" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteDelegate.mc" id="11" lineNum="9" pc="268435794" symbol="onMenu"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteDelegate.mc" id="11" lineNum="10" pc="268435798" symbol="onMenu"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteDelegate.mc" id="11" lineNum="11" pc="268435882" symbol="onMenu"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="13" lineNum="6" pc="268435886" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="13" lineNum="7" pc="268435890" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="14" lineNum="10" pc="268435909" symbol="onMenuItem"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="14" lineNum="11" pc="268435913" symbol="onMenuItem"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="14" lineNum="12" pc="268435924" symbol="onMenuItem"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="14" lineNum="13" pc="268435948" symbol="onMenuItem"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteMenuDelegate.mc" id="14" lineNum="14" pc="268435959" symbol="onMenuItem"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="16" lineNum="28" pc="268435984" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="16" lineNum="29" pc="268435988" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="16" lineNum="30" pc="268436005" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="16" lineNum="31" pc="268436021" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="16" lineNum="32" pc="268436037" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="16" lineNum="33" pc="268436053" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="38" pc="268436067" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="39" pc="268436071" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="40" pc="268436085" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="43" pc="268436091" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="44" pc="268436102" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="47" pc="268436115" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="48" pc="268436156" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="50" pc="268436169" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="51" pc="268436184" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="52" pc="268436215" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="53" pc="268436235" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="55" pc="268436252" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="56" pc="268436279" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="57" pc="268436299" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="58" pc="268436327" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="60" pc="268436346" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="17" lineNum="63" pc="268436368" symbol="writeLines"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="18" lineNum="66" pc="268436372" symbol="reset"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="18" lineNum="67" pc="268436376" symbol="reset"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="18" lineNum="68" pc="268436389" symbol="reset"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="18" lineNum="69" pc="268436407" symbol="reset"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="18" lineNum="71" pc="268436419" symbol="reset"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="19" lineNum="75" pc="268436433" symbol="testFit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="19" lineNum="76" pc="268436437" symbol="testFit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="19" lineNum="77" pc="268436456" symbol="testFit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="19" lineNum="78" pc="268436483" symbol="testFit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="19" lineNum="79" pc="268436517" symbol="testFit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="19" lineNum="81" pc="268436564" symbol="testFit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="85" pc="268436578" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="86" pc="268436582" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="87" pc="268436589" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="88" pc="268436606" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="89" pc="268436613" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="91" pc="268436647" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="92" pc="268436679" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="93" pc="268436706" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="95" pc="268436712" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="96" pc="268436722" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="20" lineNum="98" pc="268436729" symbol="lineSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="21" lineNum="102" pc="268436733" symbol="wordSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="21" lineNum="103" pc="268436737" symbol="wordSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="21" lineNum="104" pc="268436750" symbol="wordSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="21" lineNum="105" pc="268436767" symbol="wordSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="21" lineNum="106" pc="268436774" symbol="wordSplit"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="22" lineNum="110" pc="268436867" symbol="drawText"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="22" lineNum="112" pc="268436871" symbol="drawText"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="22" lineNum="113" pc="268436895" symbol="drawText"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="22" lineNum="114" pc="268436942" symbol="drawText"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="22" lineNum="115" pc="268436966" symbol="drawText"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="22" lineNum="117" pc="268437022" symbol="drawText"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="122" pc="268437076" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="124" pc="268437080" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="125" pc="268437093" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="127" pc="268437123" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="128" pc="268437142" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="129" pc="268437159" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="131" pc="268437174" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="23" lineNum="132" pc="268437191" symbol="getWidthForLine"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="136" pc="268437195" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="137" pc="268437199" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="138" pc="268437223" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="140" pc="268437235" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="141" pc="268437251" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="143" pc="268437270" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="144" pc="268437287" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="146" pc="268437296" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="147" pc="268437327" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="24" lineNum="148" pc="268437355" symbol="getWidthAt"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="25" lineNum="151" pc="268437368" symbol="scroll"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="25" lineNum="152" pc="268437372" symbol="scroll"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="25" lineNum="153" pc="268437383" symbol="scroll"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="25" lineNum="155" pc="268437408" symbol="scroll"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="25" lineNum="157" pc="268437421" symbol="scroll"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="160" pc="268437438" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="161" pc="268437442" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="162" pc="268437454" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="164" pc="268437460" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="165" pc="268437479" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="166" pc="268437497" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="167" pc="268437541" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\WrapText.mc" id="26" lineNum="168" pc="268437557" symbol="scrollDown"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="28" lineNum="6" pc="268437561" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="28" lineNum="7" pc="268437565" symbol="initialize"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="29" lineNum="11" pc="268437584" symbol="onStart"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="30" lineNum="15" pc="268437589" symbol="onStop"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="31" lineNum="18" pc="268437594" symbol="onSettingsChanged"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="31" lineNum="19" pc="268437598" symbol="onSettingsChanged"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="32" lineNum="23" pc="268437615" symbol="getInitialView"/>
+<entry filename="C:\\work_studio\\project\\project_garmin\\my_projects\\EasyNote\\source\\EasyNoteApp.mc" id="32" lineNum="24" pc="268437619" symbol="getInitialView"/>
+<entry filename="Rez" id="38" lineNum="17" pc="268437687" symbol="initialize"/>
+<entry filename="Rez" id="38" lineNum="18" pc="268437691" symbol="initialize"/>
+<entry filename="Rez" id="38" lineNum="19" pc="268437709" symbol="initialize"/>
+<entry filename="Rez" id="38" lineNum="20" pc="268437761" symbol="initialize"/>
+<entry filename="Rez" id="41" lineNum="38" pc="268437814" symbol="MainLayout"/>
+<entry filename="Rez" id="41" lineNum="42" pc="268437826" symbol="MainLayout"/>
+<entry filename="Rez" id="41" lineNum="43" pc="268437974" symbol="MainLayout"/>
+<entry filename="Rez" id="41" lineNum="44" pc="268438090" symbol="MainLayout"/>
+<entry filename="Rez" id="41" lineNum="47" pc="268438142" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="25" symbol="linePadding"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="45" symbol="noteContent"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="35" method="true" symbol="writeLines"/>
+<entry id="18" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="34" symbol="overflow"/>
+<entry field="true" id="31" symbol="scrollDelay"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="22" symbol="NoteContentLabel"/>
+<entry id="12" object="true" symbol="WrapText"/>
+<entry id="41" method="true" symbol="getWidthAt"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="26" symbol="sidePadding"/>
+<entry id="19" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="37" method="true" symbol="testFit"/>
+<entry id="11" object="true" symbol="EasyNoteMenuDelegate"/>
+<entry field="true" id="33" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry field="true" id="29" symbol="offset"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="30" symbol="skipped"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry id="48" symbol="item_2"/>
+<entry id="47" symbol="item_1"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="28" symbol="rectangleAlignment"/>
+<entry field="true" id="21" symbol="menu_label_2"/>
+<entry field="true" id="20" symbol="menu_label_1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="46" method="true" symbol="getContent"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="9" object="true" symbol="EasyNoteView"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry id="43" method="true" symbol="scrollDown"/>
+<entry field="true" id="16" symbol="id_monkey"/>
+<entry id="8389190" method="true" symbol="drawText"/>
+<entry id="8389348" symbol="font"/>
+<entry id="38" method="true" symbol="lineSplit"/>
+<entry id="39" method="true" symbol="wordSplit"/>
+<entry id="8389347" symbol="color"/>
+<entry id="42" method="true" symbol="scroll"/>
+<entry field="true" id="32" symbol="scrollStep"/>
+<entry field="true" id="27" symbol="roundMargin"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="36" method="true" symbol="reset"/>
+<entry id="10" object="true" symbol="EasyNoteDelegate"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry field="true" id="23" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="13" object="true" symbol="EasyNoteApp"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="40" method="true" symbol="getWidthForLine"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="44" symbol="writer"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435635" name="dc" stackId="1" startPc="268435630"/>
+<entry endPc="268435765" name="posY" stackId="2" startPc="268435644"/>
+<entry endPc="268435766" name="dc" stackId="1" startPc="268435640"/>
+<entry endPc="268435984" name="item" stackId="1" startPc="268435909"/>
+<entry endPc="268436066" name="settings" stackId="1" startPc="268435988"/>
+<entry endPc="268436365" name="width" stackId="7" startPc="268436235"/>
+<entry endPc="268436371" name="height" stackId="5" startPc="268436071"/>
+<entry endPc="268436371" name="parts" stackId="6" startPc="268436071"/>
+<entry endPc="268436372" name="dc" stackId="1" startPc="268436067"/>
+<entry endPc="268436372" name="font" stackId="3" startPc="268436067"/>
+<entry endPc="268436372" name="posY" stackId="4" startPc="268436067"/>
+<entry endPc="268436372" name="text" stackId="2" startPc="268436067"/>
+<entry endPc="268436578" name="posY" stackId="1" startPc="268436433"/>
+<entry endPc="268436726" name="newParts" stackId="8" startPc="268436647"/>
+<entry endPc="268436732" name="count" stackId="7" startPc="268436582"/>
+<entry endPc="268436732" name="os" stackId="5" startPc="268436582"/>
+<entry endPc="268436732" name="parts" stackId="6" startPc="268436582"/>
+<entry endPc="268436733" name="dc" stackId="1" startPc="268436578"/>
+<entry endPc="268436733" name="font" stackId="3" startPc="268436578"/>
+<entry endPc="268436733" name="width" stackId="4" startPc="268436578"/>
+<entry endPc="268436733" name="text" stackId="2" startPc="268436578"/>
+<entry endPc="268436866" name="len" stackId="3" startPc="268436737"/>
+<entry endPc="268436866" name="substr" stackId="4" startPc="268436737"/>
+<entry endPc="268436866" name="ptr" stackId="5" startPc="268436737"/>
+<entry endPc="268436867" name="subject" stackId="1" startPc="268436733"/>
+<entry endPc="268436867" name="start" stackId="2" startPc="268436733"/>
+<entry endPc="268437076" name="dc" stackId="1" startPc="268436867"/>
+<entry endPc="268437076" name="font" stackId="4" startPc="268436867"/>
+<entry endPc="268437076" name="width" stackId="2" startPc="268436867"/>
+<entry endPc="268437076" name="text" stackId="5" startPc="268436867"/>
+<entry endPc="268437076" name="posY" stackId="3" startPc="268436867"/>
+<entry endPc="268437194" name="w2" stackId="7" startPc="268437080"/>
+<entry endPc="268437194" name="w1" stackId="4" startPc="268437080"/>
+<entry endPc="268437194" name="avgY" stackId="3" startPc="268437080"/>
+<entry endPc="268437194" name="upperHalf" stackId="5" startPc="268437080"/>
+<entry endPc="268437194" name="width" stackId="8" startPc="268437080"/>
+<entry endPc="268437194" name="cornerY" stackId="6" startPc="268437080"/>
+<entry endPc="268437195" name="height" stackId="2" startPc="268437076"/>
+<entry endPc="268437195" name="posY" stackId="1" startPc="268437076"/>
+<entry endPc="268437367" name="dY" stackId="3" startPc="268437199"/>
+<entry endPc="268437367" name="w" stackId="5" startPc="268437199"/>
+<entry endPc="268437367" name="a" stackId="4" startPc="268437199"/>
+<entry endPc="268437367" name="r" stackId="2" startPc="268437199"/>
+<entry endPc="268437368" name="posY" stackId="1" startPc="268437195"/>
+<entry endPc="268437589" name="state" stackId="1" startPc="268437584"/>
+<entry endPc="268437594" name="state" stackId="1" startPc="268437589"/>
+<entry endPc="268438169" name="rez_cmp_local_bitmap_1503704371" stackId="2" startPc="268437826"/>
+<entry endPc="268438169" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437826"/>
+<entry endPc="268438170" name="dc" stackId="1" startPc="268437814"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="EasyNoteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getContent" parent="EasyNoteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="EasyNoteView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="EasyNoteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="EasyNoteView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="EasyNoteView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EasyNoteDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="EasyNoteDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EasyNoteMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="EasyNoteMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WrapText">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="writeLines" parent="WrapText">
+<param id="dc"/>
+<param id="text"/>
+<param id="font"/>
+<param id="posY"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="reset" parent="WrapText">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="testFit" parent="WrapText">
+<param id="posY"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="lineSplit" parent="WrapText">
+<param id="dc"/>
+<param id="text"/>
+<param id="font"/>
+<param id="width"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="wordSplit" parent="WrapText">
+<param id="subject"/>
+<param id="start"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawText" parent="WrapText">
+<param id="dc"/>
+<param id="width"/>
+<param id="posY"/>
+<param id="font"/>
+<param id="text"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWidthForLine" parent="WrapText">
+<param id="posY"/>
+<param id="height"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWidthAt" parent="WrapText">
+<param id="posY"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="scroll" parent="WrapText">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="scrollDown" parent="WrapText">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EasyNoteApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="EasyNoteApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="EasyNoteApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="EasyNoteApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="EasyNoteApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="214" parentId="globals" symbolId="EasyNoteApp" type="class"/>
+<dataEntry offset="293" parentId="globals" symbolId="EasyNoteMenuDelegate" type="class"/>
+<dataEntry offset="348" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="427" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="513" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="560" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="591" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="622" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="661" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="732" parentId="globals" symbolId="WrapText" type="class"/>
+<dataEntry offset="963" parentId="globals" symbolId="EasyNoteView" type="class"/>
+<dataEntry offset="1066" parentId="globals" symbolId="EasyNoteDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

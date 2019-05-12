@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">EasyNote</string>
+    <string id="NoteContentLabel">笔记内容</string>
+    <string id="prompt">hello</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+</strings>
