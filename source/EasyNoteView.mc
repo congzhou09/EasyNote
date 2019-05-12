@@ -9,7 +9,7 @@ class EasyNoteView extends WatchUi.View {
 
     function initialize() {
         View.initialize();
-        writer = new WrapText();   
+        writer = new WrapTextMine();   
         getContent();
     }
 
@@ -18,10 +18,6 @@ class EasyNoteView extends WatchUi.View {
 	  if(noteContent.equals(""))
 	  {
 	    noteContent = "内容为空!";
-	  }
-	  else
-	  {
-	    System.println(noteContent);
 	  }
     }
     // Load your resources here
