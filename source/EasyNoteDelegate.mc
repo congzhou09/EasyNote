@@ -7,7 +7,7 @@ class EasyNoteDelegate extends WatchUi.BehaviorDelegate {
     }
 
     function onMenu() {
-        WatchUi.pushView(new Rez.Menus.MainMenu(), new EasyNoteMenuDelegate(), WatchUi.SLIDE_UP);
+//        WatchUi.pushView(new Rez.Menus.MainMenu(), new EasyNoteMenuDelegate(), WatchUi.SLIDE_UP);
         return true;
     }
     

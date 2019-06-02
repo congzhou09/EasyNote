@@ -19,6 +19,7 @@ class EasyNoteApp extends Application.AppBase {
     }
 
     function onSettingsChanged(){
+      EasyNoteView.resetContent();
       WatchUi.requestUpdate();   // update the view to reflect changes
     }
     

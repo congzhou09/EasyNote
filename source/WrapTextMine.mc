@@ -83,7 +83,7 @@ class WrapTextMine extends WrapText {
     var os = 0;
     var parts = wordSplit(text, os);
     var count = 0;
-    while (parts.size() == 2 && count < 15) {
+    while (parts.size() == 2 && count < 150) {
 //      System.println(parts[0].length());
       var newParts = wordSplit(text, parts[0].length());
       if (dc.getTextWidthInPixels(newParts[0], font) > width ) {

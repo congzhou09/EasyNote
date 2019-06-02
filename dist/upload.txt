@@ -1,0 +1,16 @@
+A simple note app, pages and screen adaptation are supported,  the note contents can be sent from mobile througt bluetooth just using the Connect IQ APP.
+
+简单的笔记应用，支持分页与屏幕适配，只需要蓝牙连接手机即可通过Connect IQ APP发送笔记内容
+
+With this hand, I will lift your sorrows. Your cup will never empty, for I will be your wine. With this candle, I'll light your way in darkness. With this ring, I ask you to be mine. 
+
+
+TODO:
+英文排版bug √
+设备兼容 √
+每次蓝牙发送数据后重新初始化 √
+app图标 √
+
+Cover Image will be displayed on your Connect IQ Store listing. Image must be a JPG, GIF or PNG less than 150 KB.
+
+https://apps.gairmin.com/en-US/developer/upload

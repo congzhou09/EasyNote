@@ -6,7 +6,7 @@ class EasyNoteView extends WatchUi.View {
     function initialize() {
         View.initialize();
         textRender = new WrapTextMine();   
-        easyNoteModel.getContent();
+        resetContent();
     }
     
     // Load your resources here
@@ -21,14 +21,17 @@ class EasyNoteView extends WatchUi.View {
     function onShow() {
         
     }
+    
+    function resetContent() {
+        easyNoteModel.getContent();
+        textRender.initialize();
+    }
 
     // Update the view
     function onUpdate(dc) {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
-
-        easyNoteModel.getContent();
         textRender.writeLines(dc, easyNoteModel.noteContent, Graphics.FONT_TINY, 0);      
     }
 
