@@ -16,6 +16,7 @@ class EasyNoteApp extends Application.AppBase {
 
     // onStop() is called when your application is exiting
     function onStop(state) {
+//      System.println("xxx");
     }
 
     function onSettingsChanged(){

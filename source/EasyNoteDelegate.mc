@@ -20,6 +20,10 @@ class EasyNoteDelegate extends WatchUi.BehaviorDelegate {
         {
           textRender.rollDown();
         }
+        else if(keyEvent.getKey() == KEY_ESC)
+        {
+          System.exit();
+        }
         return true;
     }
 
